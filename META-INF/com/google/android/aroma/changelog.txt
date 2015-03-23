@@ -1,0 +1,25 @@
+InsertCoin 7.0.4
+- fixed not being able to download / update Sense 7 apps in Google Play store
+- enabled HSDPA PLUS Icon for Vodafone Users
+- added HTC Sense7 MyTasks (thanks lee)
+- updated HTC Connect 
+- updated HTC Dotview with Sense 7 One
+InsertCoin 7.0.3
+- updated HTC Backup
+- updated Adaway with Material Design
+- changed ART Compiler Flags, should speed up things
+- fixed Priority mode (Interruptions) not kicking in/out at selected time interval
+- fixed Kontrol FC in buttons tab
+- fixed FMRadio
+- added FMRadio Widget (sense6 one)
+InsertCoin 7.0.2
+- removed DND mode from Settings. not working (Sense 7 had it removed as default)
+- fixed “Wake On SMS” and “Disable SMS to MMS coversion” tweak
+InsertCoin 7.0.1
+- updated to Sense 7 from HTC ONE M9
+- all tweaks included and working 
+- custom IC icons pack removed due Sense 7 built-in feature
+- Motion Launch Gestures "disable"" option moved from Kontrol to Settings - Display - MLG
+- all bugs squashed 
+- US carrier variants still might have a few kinks 
+- thanks w00dstock - help with HTC's obfuscated code
