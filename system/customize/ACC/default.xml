@@ -53,9 +53,9 @@
   <item type="boolean" name="devicepolicy_wipe_external_storage">false</item>
   <item type="integer" name="fp_security_level">5000</item>
   <item type="boolean" name="globalaction_enable_cancel_button">false</item>
-  <item type="boolean" name="htcangledetector_is_angle_detector_enable">true</item>
+  <item type="boolean" name="htcangledetector_is_angle_detector_enable">false</item>
   <item type="boolean" name="htcangledetector_is_detector_always_enable">false</item>
-  <item type="boolean" name="htcangledetector_is_enable_detector_gyro">true</item>
+  <item type="boolean" name="htcangledetector_is_enable_detector_gyro">false</item>
   <item type="boolean" name="keyguard_locknow_when_sim_absent">false</item>
   <item type="boolean" name="keyguard_no_puk_screen">false</item>
   <item type="boolean" name="keyguard_stuck_network_lock">false</item>
