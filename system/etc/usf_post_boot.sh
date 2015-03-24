@@ -139,8 +139,8 @@ find /data/data/*/*/*/*/Cache/ -depth -mindepth 1 -exec rm -Rf {} \;
 rm -Rf /data/data/com.facebook.katana/files/video-cache/*
 
 # fstrim and log
-rm /data/trim.log
-fstrim -v /system >> /data/trim.log;
-fstrim -v /data >> /data/trim.log;
-fstrim -v /cache >> /data/trim.log;
-echo  "Last TRIM was on: $( date +"%m-%d-%Y %r" )" >> /data/trim.log
+#rm /data/trim.log
+#fstrim -v /system >> /data/trim.log;
+#fstrim -v /data >> /data/trim.log;
+#fstrim -v /cache >> /data/trim.log;
+#echo  "Last TRIM was on: $( date +"%m-%d-%Y %r" )" >> /data/trim.log
