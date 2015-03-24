@@ -74,19 +74,15 @@ selectbox(
 );
 
 
-if prop("wipe.prop","selected.0") !="2" then
-	selectbox(
+selectbox(
 	"InsertCoin - Dalvik Cache Wipe",
 	"<#c00><b>Note:</b></#>\nPlease select\n ",
 	"@wipe",
 	"dalvikwipe.prop",
   
 	"Wipe Dalvik-Cache",						"Recommended Way, slow 1st boot if ART is used",1,
-	"Don't Wipe Dalvik-Cache",				    "Saves a lot of time on 1st boot if ARTis used, can cause issues",0
+	"Don't Wipe Dalvik-Cache",				    "Saves a lot of time on 1st boot if ART is used, can cause issues",0
 	);
-else
-	writetmpfile("dalvikwipe.prop", "selected.0=1\n");
-endif;
 
 
 
