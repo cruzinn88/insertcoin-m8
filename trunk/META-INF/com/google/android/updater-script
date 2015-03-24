@@ -857,8 +857,8 @@ symlink("/system/lib/libgnmc_decoder.3.3.3.15.so", "/system/priv-app/HtcMusicEnh
 symlink("/system/lib/libgnmc_fpx.3.3.3.15.so", "/system/priv-app/HtcMusicEnhancer/lib/arm/libgnmc_fpx.3.3.3.15.so");
 symlink("/system/lib/libgnmc_id3tag.3.3.3.15.so", "/system/priv-app/HtcMusicEnhancer/lib/arm/libgnmc_id3tag.3.3.3.15.so");
 symlink("/system/lib/libgntransition_detector.3.3.3.15.so", "/system/priv-app/HtcMusicEnhancer/lib/arm/libgntransition_detector.3.3.3.15.so");
-symlink("/system/lib/libhtc_loglevel.so", "/system/app/HtcLogLevel/lib/arm/libhtc_loglevel.so");
-symlink("/system/lib/libhtcqxdm2sd.so", "/system/app/QXDM2SD/lib/arm/libhtcqxdm2sd.so");
+#symlink("/system/lib/libhtc_loglevel.so", "/system/app/HtcLogLevel/lib/arm/libhtc_loglevel.so");
+#symlink("/system/lib/libhtcqxdm2sd.so", "/system/app/QXDM2SD/lib/arm/libhtcqxdm2sd.so");
 symlink("/system/lib/libjDTCPDaemon.so", "/system/priv-app/HtcDLNAMiddleLayer/lib/arm/libjDTCPDaemon.so");
 symlink("/system/lib/libjUPnPCP.so", "/system/priv-app/HtcDLNAMiddleLayer/lib/arm/libjUPnPCP.so");
 symlink("/system/lib/libjni_pacprocessor.so", "/system/app/PacProcessor/lib/arm/libjni_pacprocessor.so");
@@ -886,7 +886,7 @@ symlink("/system/lib/libomron_common.so", "/system/app/Cloudex/lib/arm/libomron_
 symlink("/system/lib/librsjni.so", "/system/app/Cloudex/lib/arm/librsjni.so");
 symlink("/system/lib/libRSSupport.so", "/system/app/Cloudex/lib/arm/libRSSupport.so");
 symlink("/system/lib/libvima.so", "/system/app/Cloudex/lib/arm/libvima.so");
-symlink("/system/lib/libhtc_loglevel.so", "/system/app/HtcLogLevel/lib/arm/libhtc_loglevel.so");
+#symlink("/system/lib/libhtc_loglevel.so", "/system/app/HtcLogLevel/lib/arm/libhtc_loglevel.so");
 symlink("/system/lib/libbdpush_V2_2.so", "/system/app/HTCZero/lib/arm/libbdpush_V2_2.so");
 symlink("/system/lib/libbv_panodata_hdk_v6.so", "/system/app/HTCZero/lib/arm/libbv_panodata_hdk_v6.so");
 symlink("/system/lib/libpanoglviewer_hdk_v14.so", "/system/app/HTCZero/lib/arm/libpanoglviewer_hdk_v14.so");
