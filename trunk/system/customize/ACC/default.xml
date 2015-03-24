@@ -926,7 +926,8 @@
     <string>id=com.htc.theme.td77bd697-2811-482e-961f-e65cbdffdf65:title=Nimbus:c1=#a6744b:c2=#a6744b:c3=#a6744b:c4=#a6744b:c1k=#4d3522:c2k=#4d3522:c3k=#4d3522:c4k=#4d3522:c1l=#ffb273:c2l=#ffb273:c3l=#ffb273:c4l=#ffb273:d1=#a6744b:d2=#4d3522:d3=#8f6542:d4=#ffb273</string>
     <string>id=com.htc.theme.tb930c680-2eae-47da-909f-992e4f061056:title=Origami:c1=#0096b6:c2=#3bd8b9:c3=#d2916e:c4=#f55732:c1k=#006a81:c2k=#44967c:c3k=#a66342:c4k=#bb5841:c1l=#f55732:c2l=#f55732:c3l=#3bd8b9:c4l=#0096b6:d1=#0096b6:d2=#3bd8b9:d3=#d2916e:d4=#f55732</string>
     <string>id=com.htc.theme.t51edf118-cfb9-465d-b1e4-d650534b8e9c:title=Cascadia:c1=#273e81:c2=#20a9ff:c3=#4e3fdf:c4=#7f2085:c1k=#101936:c2k=#146699:c3k=#2a2278:c4k=#49124d:c1l=#4d79ff:c2l=#fff776:c3l=#41dce8:c4l=#f665ff:d1=#273e81:d2=#20a9ff:d3=#4e3fdf:d4=#7f2085</string>
-  </item>
+    <string>id=com.htc.theme.tb930c680-2eae-47da-909f-992e4f061056:title=Full Black:c1=#000000:c2=#171717:c3=#262626:c4=#707070:c1k=#000000:c2k=#171717:c3k=#262626:c4k=#707070:c1l=#000000:c2l=#171717:c3l=#262626:c4l=#707070:d1=#000000:d2=#171717:d3=#262626:d4=#707070</string>
+	</item>
 </app>
 <app name="TMOUS_IMS">
   <item type="boolean" name="enable_new_wifi_ims">false</item>
