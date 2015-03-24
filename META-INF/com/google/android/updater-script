@@ -350,24 +350,16 @@ then
 	delete_recursive("/system/priv-app/Transfer");
 endif;
 
-if
-    file_getprop("/tmp/aroma-data/deletehapps.prop","item.0.20") == "1"
-then
-    ui_print("|-> Removing HTC TV App");
-    delete_recursive("/system/priv-app/Video_Center");
-	delete_recursive("/data/app/com.htc.videohub.ui-1");
-    delete_recursive("/data/app/com.htc.videohub.ui-2");
-endif;
 
 if
-    file_getprop("/tmp/aroma-data/deletehapps.prop","item.0.21") == "1"
+    file_getprop("/tmp/aroma-data/deletehapps.prop","item.0.20") == "1"
 then
     ui_print("|-> Removing HTC Video Player");
     delete_recursive("/system/priv-app/HMS_VideoPlayer");
 endif;
 
 if
-    file_getprop("/tmp/aroma-data/deletehapps.prop","item.0.22") == "1"
+    file_getprop("/tmp/aroma-data/deletehapps.prop","item.0.21") == "1"
 then
     ui_print("|-> Removing HTC Weather");
     delete_recursive("/system/priv-app/Weather");
@@ -376,14 +368,14 @@ then
 endif;
 
 if
-    file_getprop("/tmp/aroma-data/deletehapps.prop","item.0.23") == "1"
+    file_getprop("/tmp/aroma-data/deletehapps.prop","item.0.22") == "1"
 then
     ui_print("|-> Removing HTC WorldClock");
     delete_recursive("/system/priv-app/WorldClock");
 endif;
 
 if
-    file_getprop("/tmp/aroma-data/deletehapps.prop","item.0.24") == "1"
+    file_getprop("/tmp/aroma-data/deletehapps.prop","item.0.23") == "1"
 then
     ui_print("|-> Removing HTC Zoe");
     delete_recursive("/system/app/HTCZero");
@@ -451,7 +443,7 @@ if
     file_getprop("/tmp/aroma-data/deletewidgets.prop","item.0.8") == "1"
 then
     ui_print("|-> Removing HTC GPS Widget");
-	delete_recursive("/system/priv-app/HtcGpsWidget");
+	delete_recursive("/system/app/HtcGpsWidget");
 endif;
 if
     file_getprop("/tmp/aroma-data/deletewidgets.prop","item.0.9") == "1"
@@ -601,6 +593,8 @@ then
     delete("/data/app/com.google.android.apps.maps-1.apk");
 	delete_recursive("/data/app/com.google.android.apps.maps-1");
 	delete_recursive("/data/app/com.google.android.apps.maps-2");
+	delete_recursive("/system/app/Street");
+	 
 else
     ui_print("|-> Installing Maps");
     package_extract_file("apps/com.google.android.apps.maps-1.apk", "/data/app/com.google.android.apps.maps-1.apk");
