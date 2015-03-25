@@ -69,13 +69,13 @@ ro.aa.skulist=401
 ro.aa.romver=4.16.401.10
 ro.onecid=
 ro.cwkey=CWS__001
-ro.build.id=LRX22C
-ro.build.display.id=LRX22C release-keys
+ro.build.id=LRX22G
+ro.build.display.id=LRX22G release-keys
 ro.build.version.incremental=448934.10
 ro.build.version.sdk=21
 ro.build.version.codename=REL
 ro.build.version.all_codenames=REL
-ro.build.version.release=5.0.1
+ro.build.version.release=5.0.2
 ro.build.date=四  1月 15 22:44:32 CST 2015
 ro.build.date.utc=1421333072
 ro.build.type=user
@@ -102,7 +102,7 @@ ro.board.platform=msm8974
 ro.build.product=htc_m8
 # Do not try to parse description, fingerprint, or thumbprint
 ro.build.description=4.16.401.10 CL448934 release-keys
-ro.build.fingerprint=htc/htc_europe/htc_m8:5.0.1/LRX22C/448934.10:user/release-keys
+ro.build.fingerprint=htc/htc_europe/htc_m8:5.0.2/LRX22G/448934.10:user/release-keys
 ro.build.characteristics=default
 ro.build.description=4.16.401.10 CL448934 release-keys
 # Do not try to parse ro.build.description or .fingerprint
@@ -110,12 +110,12 @@ ro.build.description=4.16.401.10 CL448934 release-keys
 ro.build.changelist=448934
 ro.build.project=M8_UL_L50_SENSE70_MR:417003
 ro.build.sku=HTC Europe
-ro.build.buildline=M8UL_HTC_WWE_L50_CRC_Sense70_Stable_MR
+ro.build.buildline=M8UL_HTC_WWE_L50_CRC_Sense70_Stable
 ro.product.version=InsertCoin 7.0.0
 ro.rom.version=7.0.0
 ro.build.languageremove=
 ro.build.sense.version=7.0
-ro.build.version.htcsdk=HTCExt:HTCExtension_Sense70_L_2;SDK:6.55;hdkbase:19.2
+ro.build.version.htcsdk=HTCExt:HTCExtension_HDKBase_19.3;SDK:1.0;hdkbase:19.3
 # end build properties
 #
 # from device/htc/htc_m8/system.prop
