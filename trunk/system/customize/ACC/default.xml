@@ -926,8 +926,11 @@
     <string>id=com.htc.theme.td77bd697-2811-482e-961f-e65cbdffdf65:title=Nimbus:c1=#a6744b:c2=#a6744b:c3=#a6744b:c4=#a6744b:c1k=#4d3522:c2k=#4d3522:c3k=#4d3522:c4k=#4d3522:c1l=#ffb273:c2l=#ffb273:c3l=#ffb273:c4l=#ffb273:d1=#a6744b:d2=#4d3522:d3=#8f6542:d4=#ffb273</string>
     <string>id=com.htc.theme.tb930c680-2eae-47da-909f-992e4f061056:title=Origami:c1=#0096b6:c2=#3bd8b9:c3=#d2916e:c4=#f55732:c1k=#006a81:c2k=#44967c:c3k=#a66342:c4k=#bb5841:c1l=#f55732:c2l=#f55732:c3l=#3bd8b9:c4l=#0096b6:d1=#0096b6:d2=#3bd8b9:d3=#d2916e:d4=#f55732</string>
     <string>id=com.htc.theme.t51edf118-cfb9-465d-b1e4-d650534b8e9c:title=Cascadia:c1=#273e81:c2=#20a9ff:c3=#4e3fdf:c4=#7f2085:c1k=#101936:c2k=#146699:c3k=#2a2278:c4k=#49124d:c1l=#4d79ff:c2l=#fff776:c3l=#41dce8:c4l=#f665ff:d1=#273e81:d2=#20a9ff:d3=#4e3fdf:d4=#7f2085</string>
-    <string>id=com.htc.theme.tb930c680-2eae-47da-909f-992e4f061056:title=Full Black:c1=#000000:c2=#171717:c3=#262626:c4=#707070:c1k=#000000:c2k=#171717:c3k=#262626:c4k=#707070:c1l=#000000:c2l=#171717:c3l=#262626:c4l=#707070:d1=#000000:d2=#171717:d3=#262626:d4=#707070</string>
-	</item>
+	<string>id=com.htc.theme.tb930c680-2eae-47da-909f-992e4f061012:title=Black:c1=#000000:c2=#000000:c3=#000000:c4=#000000:c1k=#000000:c2k=#000000:c3k=#000000:c4k=#000000:c1l=#a1a1a1:c2l=#a1a1a1:c3l=#a1a1a1:c4l=#a1a1a1:d1=#000000:d2=#000000:d3=#a1a1a1:d4=#000000</string>
+    <string>id=com.htc.theme.tf803b3df-66cb-4e8a-a579-19b0513dsd10:title=Black 1:c1=#000000:c2=#000000:c3=#000000:c4=#000000:c1k=#000000:c2k=#000000:c3k=#000000:c4k=#000000:c1l=#4472f5:c2l=#4472f5:c3l=#4472f5:c4l=#4472f5:d1=#000000:d2=#000000:d3=#4472f5:d4=#000000</string>
+    <string>id=com.htc.theme.tf803b3df-66cb-4e8a-a579-19b0513efg10:title=Black 2:c1=#000000:c2=#000000:c3=#000000:c4=#000000:c1k=#000000:c2k=#000000:c3k=#000000:c4k=#000000:c1l=#F1E054:c2l=#F1E054:c3l=#F1E054:c4l=#F1E054:d1=#000000:d2=#000000:d3=#F1E054:d4=#000000</string>
+    <string>id=com.htc.theme.tf803b3df-66cb-4e8a-a579-19b0513esa10:title=Black 3:c1=#000000:c2=#000000:c3=#000000:c4=#000000:c1k=#000000:c2k=#000000:c3k=#000000:c4k=#000000:c1l=#ef0410:c2l=#ef0410:c3l=#ef0410:c4l=#ef0410:d1=#000000:d2=#000000:d3=#ef0410:d4=#000000</string>
+    </item>
 </app>
 <app name="TMOUS_IMS">
   <item type="boolean" name="enable_new_wifi_ims">false</item>
@@ -965,7 +968,7 @@
   <item type="integer" name="chipset">1</item>
   <item type="integer" name="device_type">1</item>
   <item type="integer" name="dual_sim_device_data_type">0</item>
-  <item type="string" name="extra_sense_version">6.0</item>
+  <item type="string" name="extra_sense_version">7.0</item>
   <item type="boolean" name="feature_auto_sim_switch">false</item>
   <item type="boolean" name="for_nel">false</item>
   <item type="boolean" name="front_flashlight">false</item>
@@ -987,7 +990,7 @@
     <string>albumeffect_enable:1</string>
   </item>
   <item type="boolean" name="isidda_device">false</item>
-  <item type="string" name="original_sense_version">6.0</item>
+  <item type="string" name="original_sense_version">7.0</item>
   <item type="integer" name="radio_type">4</item>
   <item type="integer" name="region">6</item>
   <item type="string" name="sense_version">7.0</item>
