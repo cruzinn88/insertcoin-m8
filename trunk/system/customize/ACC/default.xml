@@ -930,7 +930,7 @@
     <string>id=com.htc.theme.tf803b3df-66cb-4e8a-a579-19b0513dsd10:title=Black 1:c1=#000000:c2=#000000:c3=#000000:c4=#000000:c1k=#000000:c2k=#000000:c3k=#000000:c4k=#000000:c1l=#4472f5:c2l=#4472f5:c3l=#4472f5:c4l=#4472f5:d1=#000000:d2=#000000:d3=#4472f5:d4=#000000</string>
     <string>id=com.htc.theme.tf803b3df-66cb-4e8a-a579-19b0513efg10:title=Black 2:c1=#000000:c2=#000000:c3=#000000:c4=#000000:c1k=#000000:c2k=#000000:c3k=#000000:c4k=#000000:c1l=#F1E054:c2l=#F1E054:c3l=#F1E054:c4l=#F1E054:d1=#000000:d2=#000000:d3=#F1E054:d4=#000000</string>
     <string>id=com.htc.theme.tf803b3df-66cb-4e8a-a579-19b0513esa10:title=Black 3:c1=#000000:c2=#000000:c3=#000000:c4=#000000:c1k=#000000:c2k=#000000:c3k=#000000:c4k=#000000:c1l=#ef0410:c2l=#ef0410:c3l=#ef0410:c4l=#ef0410:d1=#000000:d2=#000000:d3=#ef0410:d4=#000000</string>
-    <string>id=com.htc.theme.tf803b3df-66cb-4e8a-a579-19b0513esa10:title=Grey  3:c1=#17212A:c2=#17212A:c3=#17212A:c4=#17212A:c1k=#17212A:c2k=#17212A:c3k=#ef0410:c4k=#17212A:c1l=#ef0410:c2l=#ef0410:c3l=#ef0410:c4l=#ef0410:d1=#17212A:d2=#17212A:d3=#ef0410:d4=#17212A</string>
+    <string>id=com.htc.theme.tf803b3df-66cb-4e8a-a579-19b0513eva10:title=Grey  3:c1=#17212A:c2=#17212A:c3=#17212A:c4=#17212A:c1k=#17212A:c2k=#17212A:c3k=#ef0410:c4k=#17212A:c1l=#ef0410:c2l=#ef0410:c3l=#ef0410:c4l=#ef0410:d1=#17212A:d2=#17212A:d3=#ef0410:d4=#17212A</string>
  </item>
 </app>
 <app name="TMOUS_IMS">
