@@ -77,6 +77,7 @@ delete_recursive("/data/app/com.google.android.gms-1");
 delete_recursive("/data/app/com.google.android.gms-2");
 delete("/data/app/com.google.android.gms-1.apk");
 delete("/data/app/com.google.android.gms-2.apk");
+delete("/data/data/com.google.android.gms");
 
 #delete("/data/app/com.htc.launcher-1.apk");
 #delete("/data/app/com.htc.launcher-2.apk");
