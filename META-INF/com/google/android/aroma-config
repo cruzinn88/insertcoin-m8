@@ -223,8 +223,7 @@ checkbox(
   "<#c00><b>Note:</b></#>\nPlease select special features you want\n ",
   "@apps",
   "sfeatures.prop",
-  "Exchange Hack",				        "Disable the need for pin on corporate emails",				0,
-  "HTC Internet Browser",				"Includes Chrome Bookmarks Synchronization",				0
+  "Exchange Hack",				        "Disable the need for pin on corporate emails",				0
 
  ); 
  
