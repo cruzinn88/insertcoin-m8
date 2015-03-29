@@ -948,8 +948,7 @@
   <item type="integer" name="TetheringGuard_Rule">0</item>
 </app>
 <app name="TMOUS_IMS">
-  <item type="boolean" name="enable_new_wifi_ims">true</item>
-  <item type="boolean" name="enable_wifi_ims">false</item>
+  <item type="boolean" name="enable_wifi_ims">true</item>
 </app>
 <app name="Trim_n_Slow">
   <item type="boolean" name="trim_n_slow_allow_slow_motion_edit">true</item>
