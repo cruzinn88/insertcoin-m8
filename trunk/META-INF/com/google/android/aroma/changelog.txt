@@ -1,3 +1,10 @@
+InsertCoin 7.0.5
+- true Sense 7 Framework. "android 5.0.2". all tweaks present.
+- updated Sense from latest Hima retail base 
+- added more colors and themes to HTC Theme Engine. (made by ineedone)
+- improved HTC IME responsiveness
+- cleanup 
+- fixed AROMA Errors 
 InsertCoin 7.0.4
 - fixed not being able to download / update Sense 7 apps in Google Play store
 - enabled HSDPA PLUS Icon for Vodafone Users
