@@ -153,7 +153,7 @@
   <item type="boolean" name="support_camera_enforce_shuttersound">false</item>
   <item type="boolean" name="support_customer_proxy">true</item>
   <item type="boolean" name="support_customization_fallback">false</item>
-  <item type="boolean" name="support_harman">true</item>
+  <item type="boolean" name="support_harman">false</item>
   <item type="boolean" name="support_miit_request">false</item>
   <item type="boolean" name="support_music_ringtone">false</item>
   <item type="boolean" name="support_outdoor_mode">false</item>
