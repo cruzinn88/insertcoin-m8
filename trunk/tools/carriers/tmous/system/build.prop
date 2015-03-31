@@ -73,7 +73,7 @@ ro.build.version.incremental=464190.4
 ro.build.version.sdk=21
 ro.build.version.codename=REL
 ro.build.version.all_codenames=REL
-ro.build.version.release=5.0.1
+ro.build.version.release=5.0.2
 ro.build.date=一  2月  2 19:00:36 CST 2015
 ro.build.date.utc=1422874836
 ro.build.type=user
@@ -100,7 +100,7 @@ ro.board.platform=msm8974
 ro.build.product=htc_m8
 # Do not try to parse description, fingerprint, or thumbprint
 ro.build.description=4.20.531.4 CL464190 release-keys
-ro.build.fingerprint=htc/tmous/htc_m8:5.0.1/LRX22C/464190.4:user/release-keys
+ro.build.fingerprint=htc/tmous/htc_m8:5.0.2/LRX22C/464190.4:user/release-keys
 ro.build.characteristics=default
 ro.build.description=4.20.531.4 CL464190 release-keys
 # Do not try to parse ro.build.description or .fingerprint
