@@ -55,7 +55,7 @@ ro.build.version.incremental=476182.10
 ro.build.version.sdk=21
 ro.build.version.codename=REL
 ro.build.version.all_codenames=REL
-ro.build.version.release=5.0.1
+ro.build.version.release=5.0.2
 ro.build.date=一  1月 26 21:20:07 CST 2015
 ro.build.date.utc=1422278407
 ro.build.type=user
@@ -82,7 +82,7 @@ ro.board.platform=msm8974
 ro.build.product=htc_m8whl
 # Do not try to parse description, fingerprint, or thumbprint
 ro.build.description=4.20.654.10 CL476182 release-keys
-ro.build.fingerprint=htc/sprint_wwe_harman/htc_m8whl:5.0.1/LRX22C/476182.10:user/release-keys
+ro.build.fingerprint=htc/sprint_wwe_harman/htc_m8whl:5.0.2/LRX22G/476182.10:user/release-keys
 ro.build.characteristics=default
 ro.build.description=4.20.654.10 CL476182 release-keys
 # Do not try to parse ro.build.description or .fingerprint
