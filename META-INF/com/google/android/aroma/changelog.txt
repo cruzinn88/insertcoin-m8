@@ -1,3 +1,12 @@
+InsertCoin 7.1.1
+- mix of Sense 7 framework with M8 framework to keep maximum compatibility 
+- all US carrier support is 100% working)
+- updated HTC Apps (Connect, Zoe, Facebook Plugin, Service Pack, Scribble, WorldClock)
+- added Sense 7 HTC Stock Browser
+- added Sprint EPST Hack
+- fixed HTC IME lag and auto-correction (update available also in PlayStore) 
+- fixed Ringtone Trimmer fc
+- fixed AppOps
 InsertCoin 7.0.5
 - true Sense 7 Framework. "android 5.0.2". all tweaks present.
 - updated Sense from latest Hima retail base 
