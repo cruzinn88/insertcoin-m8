@@ -1,3 +1,7 @@
+InsertCoin 7.1.2
+- updated Sense Home (added tweaks)
+- updated HTC Lockscreen (added tweaks)
+- fixed HTC IME volup/voldwn scroll tweak
 InsertCoin 7.1.1
 - mix of Sense 7 framework with M8 framework to keep maximum compatibility 
 - all US carrier support is 100% working)
