@@ -461,6 +461,7 @@ ro.config.htc.nocheckin=1
 # Disable HTC Error Report
 profiler.force_disable_err_rpt=1
 profiler.force_disable_ulog=1
+
 #IC adds
 persist.adb.notify=0
 debug.qctwa.statusbar=1
@@ -470,19 +471,16 @@ persist.sys.ui.hw=true
 persist.sys.scrollingcache=4
 persist.sys.smoothscrollbar=true
 
+
 #Ambient Display Parameters
 #Duration in milliseconds 5000 = 5 Seconds
 doze.pulse.duration.visible=5000
 #Brightness level values 1 to 235
 doze.pulse.brightness=17
 
-
 # ART tweaks
-dalvik.vm.dex2oat-flags "interpret-only"
-dalvik.vm.image-dex2oat-flags ""
-#dalvik.vm.dex2oat-flags ""
-#dalvik.vm.image-dex2oat-flags ""
-#dalvik.vm.dex2oat-thread_count=4
-# System props for Dolby
-dmid=-1286820014
-audio.ds1.metainfo.key=273
+dalvik.vm.dex2oat-thread_count=4
+dalvik.vm.dex2oat-flags "everything"
+dalvik.vm.image-dex2oat-flags "everything"
+dalvik.vm.image-dex2oat-filter=everything
+dalvik.vm.dex2oat-filter=everything
