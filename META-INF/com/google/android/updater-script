@@ -1044,6 +1044,9 @@ set_metadata("/system/xbin/sysro", "uid", 1000, "gid", 1000, "mode", 0755, "capa
 set_metadata("/system/xbin/sysrw", "uid", 1000, "gid", 1000, "mode", 0755, "capabilities", 0x0, "selabel", "u:object_r:system_file:s0");
 set_metadata("/system/xbin/nc", "uid", 0, "gid", 2000, "mode", 0744, "capabilities", 0x0, "selabel", "u:object_r:netcat_exec:s0");
 set_metadata("/system/build.prop", "uid", 0, "gid", 0, "mode", 0644, "capabilities", 0x0);
+#Data
+set_metadata_recursive("/data/app", "uid", 1000, "gid", 1000, "dmode", 0755, "fmode", 0755, "capabilities", 0x0);
+set_metadata("/data/app", "uid", 1000, "gid", 1000, "mode", 0771, "capabilities", 0x0);
 set_metadata_recursive("/data/preload", "uid", 0, "gid", 0, "dmode", 0771, "fmode", 0644, "capabilities", 0x0);
 
 #####################init.d permissions##################
